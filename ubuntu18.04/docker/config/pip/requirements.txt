@@ -1,0 +1,13 @@
+# catkin build Dependent
+osrf-pycommon==0.1.9
+
+cython
+pillow
+pycocotools
+matplotlib
+GitPython
+termcolor
+tensorboard
+packaging
+nvidia-tensorrt
+pycuda
